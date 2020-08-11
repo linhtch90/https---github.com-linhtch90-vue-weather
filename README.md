@@ -32,3 +32,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 Weather info:
 openweathermap.org
+
+Photo:
+unsplash.com
